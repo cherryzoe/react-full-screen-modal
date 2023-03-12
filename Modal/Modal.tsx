@@ -40,7 +40,7 @@ const Modal = ({ onClose }) => {
         className={styles.modal}
       >
         <h1 className={styles.text}>
-          Create this Modal on <a href="https://algochurn.com">Algochurn</a>
+          Create this <a href="https://algochurn.com">Modal</a>
         </h1>
         <button className="button" onClick={handleCloseButtonOnClick}>
           close
